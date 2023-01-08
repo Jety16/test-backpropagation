@@ -1,4 +1,4 @@
-# test-backpropagation
+# Neural Network (Backward Propagation)
 First test of backpropagation neural network
 
 This code is a simple class based neural network. 
